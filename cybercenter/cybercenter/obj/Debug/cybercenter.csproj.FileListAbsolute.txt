@@ -1,0 +1,413 @@
+C:\Documents and Settings\vicky\My Documents\Visual Studio 2008\Projects\cybercenter\cybercenter\bin\Debug\cybercenter.exe
+C:\Documents and Settings\vicky\My Documents\Visual Studio 2008\Projects\cybercenter\cybercenter\bin\Debug\cybercenter.pdb
+C:\Documents and Settings\vicky\My Documents\Visual Studio 2008\Projects\cybercenter\cybercenter\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\vicky\My Documents\Visual Studio 2008\Projects\cybercenter\cybercenter\obj\Debug\cybercenter.Properties.Resources.resources
+C:\Documents and Settings\vicky\My Documents\Visual Studio 2008\Projects\cybercenter\cybercenter\obj\Debug\cybercenter.csproj.GenerateResource.Cache
+C:\Documents and Settings\vicky\My Documents\Visual Studio 2008\Projects\cybercenter\cybercenter\obj\Debug\cybercenter.exe
+C:\Documents and Settings\vicky\My Documents\Visual Studio 2008\Projects\cybercenter\cybercenter\obj\Debug\cybercenter.pdb
+C:\Documents and Settings\vicky\My Documents\Visual Studio 2008\Projects\cybercenter\cybercenter\obj\Debug\cybercenter.frmLogin.resources
+C:\Documents and Settings\vicky\My Documents\Visual Studio 2008\Projects\cybercenter\cybercenter\obj\Debug\cybercenter.mainform.resources
+C:\Documents and Settings\vicky\My Documents\Visual Studio 2008\Projects\cybercenter\cybercenter\obj\Debug\cybercenter.customerinfo.resources
+I:\cybercenter\cybercenter\obj\Debug\cybercenter.exe
+I:\cybercenter\cybercenter\obj\Debug\cybercenter.pdb
+I:\cybercenter\cybercenter\bin\Debug\cybercenter.exe
+I:\cybercenter\cybercenter\bin\Debug\cybercenter.pdb
+I:\cybercenter\cybercenter\obj\Debug\ResolveAssemblyReference.cache
+I:\cybercenter\cybercenter\obj\Debug\cybercenter.customerinfo.resources
+I:\cybercenter\cybercenter\obj\Debug\cybercenter.frmLogin.resources
+I:\cybercenter\cybercenter\obj\Debug\cybercenter.mainform.resources
+I:\cybercenter\cybercenter\obj\Debug\cybercenter.Properties.Resources.resources
+I:\cybercenter\cybercenter\obj\Debug\cybercenter.csproj.GenerateResource.Cache
+C:\Documents and Settings\user\Desktop\cybercenter\cybercenter\obj\Debug\cybercenter.exe
+C:\Documents and Settings\user\Desktop\cybercenter\cybercenter\obj\Debug\cybercenter.pdb
+C:\Documents and Settings\user\Desktop\cybercenter\cybercenter\bin\Debug\cybercenter.exe
+C:\Documents and Settings\user\Desktop\cybercenter\cybercenter\bin\Debug\cybercenter.pdb
+C:\Documents and Settings\user\Desktop\cybercenter\cybercenter\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\Desktop\cybercenter\cybercenter\obj\Debug\cybercenter.customerinfo.resources
+C:\Documents and Settings\user\Desktop\cybercenter\cybercenter\obj\Debug\cybercenter.frmLogin.resources
+C:\Documents and Settings\user\Desktop\cybercenter\cybercenter\obj\Debug\cybercenter.mainform.resources
+C:\Documents and Settings\user\Desktop\cybercenter\cybercenter\obj\Debug\cybercenter.Properties.Resources.resources
+C:\Documents and Settings\user\Desktop\cybercenter\cybercenter\obj\Debug\cybercenter.csproj.GenerateResource.Cache
+F:\CLASS 2\cybercenter\cybercenter\obj\Debug\cybercenter.exe
+F:\CLASS 2\cybercenter\cybercenter\obj\Debug\cybercenter.pdb
+F:\CLASS 2\cybercenter\cybercenter\bin\Debug\cybercenter.exe
+F:\CLASS 2\cybercenter\cybercenter\bin\Debug\cybercenter.pdb
+F:\CLASS 2\cybercenter\cybercenter\obj\Debug\ResolveAssemblyReference.cache
+F:\CLASS 2\cybercenter\cybercenter\obj\Debug\cybercenter.customerinfo.resources
+F:\CLASS 2\cybercenter\cybercenter\obj\Debug\cybercenter.frmLogin.resources
+F:\CLASS 2\cybercenter\cybercenter\obj\Debug\cybercenter.mainform.resources
+F:\CLASS 2\cybercenter\cybercenter\obj\Debug\cybercenter.Properties.Resources.resources
+F:\CLASS 2\cybercenter\cybercenter\obj\Debug\cybercenter.csproj.GenerateResource.Cache
+I:\CLASS 2\cybercenter\cybercenter\obj\Debug\cybercenter.exe
+I:\CLASS 2\cybercenter\cybercenter\obj\Debug\cybercenter.pdb
+E:\vandana\college\information\CLASS 2\cybercenter\cybercenter\obj\Debug\cybercenter.exe
+E:\vandana\college\information\CLASS 2\cybercenter\cybercenter\obj\Debug\cybercenter.pdb
+E:\vandana\college\information\CLASS 2\cybercenter\cybercenter\obj\Debug\ResolveAssemblyReference.cache
+E:\vandana\college\information\CLASS 2\cybercenter\cybercenter\obj\Debug\cybercenter.Computer.resources
+E:\vandana\college\information\CLASS 2\cybercenter\cybercenter\obj\Debug\cybercenter.customerinfo.resources
+E:\vandana\college\information\CLASS 2\cybercenter\cybercenter\obj\Debug\cybercenter.frmLogin.resources
+E:\vandana\college\information\CLASS 2\cybercenter\cybercenter\obj\Debug\cybercenter.mainform.resources
+E:\vandana\college\information\CLASS 2\cybercenter\cybercenter\obj\Debug\cybercenter.newcomputer.resources
+E:\vandana\college\information\CLASS 2\cybercenter\cybercenter\obj\Debug\cybercenter.Properties.Resources.resources
+E:\vandana\college\information\CLASS 2\cybercenter\cybercenter\obj\Debug\cybercenter.csproj.GenerateResource.Cache
+E:\vandana\college\information\CLASS 2\cybercenter\cybercenter\bin\Debug\cybercenter.exe
+E:\vandana\college\information\CLASS 2\cybercenter\cybercenter\bin\Debug\cybercenter.pdb
+E:\vandana\college\information\CLASS 2\cybercenter\cybercenter\obj\Debug\cybercenter.changepassword.resources
+E:\vandana\college\Project\CLASS 2\cybercenter\cybercenter\obj\Debug\cybercenter.exe
+E:\vandana\college\Project\CLASS 2\cybercenter\cybercenter\obj\Debug\cybercenter.pdb
+I:\Project\CLASS 2\cybercenter\cybercenter\obj\Debug\cybercenter.exe
+I:\Project\CLASS 2\cybercenter\cybercenter\obj\Debug\cybercenter.pdb
+I:\Project\CLASS 2\cybercenter\cybercenter\bin\Debug\cybercenter.exe
+I:\Project\CLASS 2\cybercenter\cybercenter\bin\Debug\cybercenter.pdb
+I:\Project\CLASS 2\cybercenter\cybercenter\obj\Debug\ResolveAssemblyReference.cache
+I:\Project\CLASS 2\cybercenter\cybercenter\obj\Debug\cybercenter.changepassword.resources
+I:\Project\CLASS 2\cybercenter\cybercenter\obj\Debug\cybercenter.Computer.resources
+I:\Project\CLASS 2\cybercenter\cybercenter\obj\Debug\cybercenter.customerinfo.resources
+I:\Project\CLASS 2\cybercenter\cybercenter\obj\Debug\cybercenter.frmLogin.resources
+I:\Project\CLASS 2\cybercenter\cybercenter\obj\Debug\cybercenter.mainform.resources
+I:\Project\CLASS 2\cybercenter\cybercenter\obj\Debug\cybercenter.newcomputer.resources
+I:\Project\CLASS 2\cybercenter\cybercenter\obj\Debug\cybercenter.Properties.Resources.resources
+I:\Project\CLASS 2\cybercenter\cybercenter\obj\Debug\cybercenter.csproj.GenerateResource.Cache
+C:\Documents and Settings\vicky\Desktop\CLASS 2\cybercenter\cybercenter\obj\Debug\cybercenter.exe
+C:\Documents and Settings\vicky\Desktop\CLASS 2\cybercenter\cybercenter\obj\Debug\cybercenter.pdb
+C:\Documents and Settings\vicky\Desktop\CLASS 2\cybercenter\cybercenter\bin\Debug\cybercenter.exe
+C:\Documents and Settings\vicky\Desktop\CLASS 2\cybercenter\cybercenter\bin\Debug\cybercenter.pdb
+C:\Documents and Settings\vicky\Desktop\CLASS 2\cybercenter\cybercenter\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\vicky\Desktop\CLASS 2\cybercenter\cybercenter\obj\Debug\cybercenter.changepassword.resources
+C:\Documents and Settings\vicky\Desktop\CLASS 2\cybercenter\cybercenter\obj\Debug\cybercenter.customerinfo.resources
+C:\Documents and Settings\vicky\Desktop\CLASS 2\cybercenter\cybercenter\obj\Debug\cybercenter.frmLogin.resources
+C:\Documents and Settings\vicky\Desktop\CLASS 2\cybercenter\cybercenter\obj\Debug\cybercenter.mainform.resources
+C:\Documents and Settings\vicky\Desktop\CLASS 2\cybercenter\cybercenter\obj\Debug\cybercenter.newcomputer.resources
+C:\Documents and Settings\vicky\Desktop\CLASS 2\cybercenter\cybercenter\obj\Debug\cybercenter.Properties.Resources.resources
+C:\Documents and Settings\vicky\Desktop\CLASS 2\cybercenter\cybercenter\obj\Debug\cybercenter.csproj.GenerateResource.Cache
+I:\CLASS 2\cybercenter\cybercenter\bin\Debug\cybercenter.exe
+I:\CLASS 2\cybercenter\cybercenter\bin\Debug\cybercenter.pdb
+I:\CLASS 2\cybercenter\cybercenter\obj\Debug\ResolveAssemblyReference.cache
+I:\CLASS 2\cybercenter\cybercenter\obj\Debug\cybercenter.changepassword.resources
+I:\CLASS 2\cybercenter\cybercenter\obj\Debug\cybercenter.customerinfo.resources
+I:\CLASS 2\cybercenter\cybercenter\obj\Debug\cybercenter.frmLogin.resources
+I:\CLASS 2\cybercenter\cybercenter\obj\Debug\cybercenter.mainform.resources
+I:\CLASS 2\cybercenter\cybercenter\obj\Debug\cybercenter.newcomputer.resources
+I:\CLASS 2\cybercenter\cybercenter\obj\Debug\cybercenter.Properties.Resources.resources
+I:\CLASS 2\cybercenter\cybercenter\obj\Debug\cybercenter.csproj.GenerateResource.Cache
+C:\Documents and Settings\user\Desktop\project demo\cybercenter\cybercenter\obj\Debug\cybercenter.exe
+C:\Documents and Settings\user\Desktop\project demo\cybercenter\cybercenter\obj\Debug\cybercenter.pdb
+C:\Documents and Settings\user\Desktop\project demo\cybercenter\cybercenter\bin\Debug\cybercenter.exe
+C:\Documents and Settings\user\Desktop\project demo\cybercenter\cybercenter\bin\Debug\cybercenter.pdb
+C:\Documents and Settings\user\Desktop\project demo\cybercenter\cybercenter\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\Desktop\project demo\cybercenter\cybercenter\obj\Debug\cybercenter.changepassword.resources
+C:\Documents and Settings\user\Desktop\project demo\cybercenter\cybercenter\obj\Debug\cybercenter.customerinfo.resources
+C:\Documents and Settings\user\Desktop\project demo\cybercenter\cybercenter\obj\Debug\cybercenter.frmLogin.resources
+C:\Documents and Settings\user\Desktop\project demo\cybercenter\cybercenter\obj\Debug\cybercenter.mainform.resources
+C:\Documents and Settings\user\Desktop\project demo\cybercenter\cybercenter\obj\Debug\cybercenter.newcomputer.resources
+C:\Documents and Settings\user\Desktop\project demo\cybercenter\cybercenter\obj\Debug\cybercenter.Properties.Resources.resources
+C:\Documents and Settings\user\Desktop\project demo\cybercenter\cybercenter\obj\Debug\cybercenter.csproj.GenerateResource.Cache
+C:\Users\viraj\Desktop\project demo\cybercenter\cybercenter\obj\Debug\cybercenter.exe
+C:\Users\viraj\Desktop\project demo\cybercenter\cybercenter\obj\Debug\cybercenter.pdb
+C:\Users\viraj\Desktop\project demo\cybercenter\cybercenter\bin\Debug\cybercenter.exe
+C:\Users\viraj\Desktop\project demo\cybercenter\cybercenter\bin\Debug\cybercenter.pdb
+C:\Users\viraj\Desktop\project demo\cybercenter\cybercenter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\viraj\Desktop\project demo\cybercenter\cybercenter\obj\Debug\cybercenter.changepassword.resources
+C:\Users\viraj\Desktop\project demo\cybercenter\cybercenter\obj\Debug\cybercenter.customerinfo.resources
+C:\Users\viraj\Desktop\project demo\cybercenter\cybercenter\obj\Debug\cybercenter.frmLogin.resources
+C:\Users\viraj\Desktop\project demo\cybercenter\cybercenter\obj\Debug\cybercenter.mainform.resources
+C:\Users\viraj\Desktop\project demo\cybercenter\cybercenter\obj\Debug\cybercenter.newcomputer.resources
+C:\Users\viraj\Desktop\project demo\cybercenter\cybercenter\obj\Debug\cybercenter.Properties.Resources.resources
+C:\Users\viraj\Desktop\project demo\cybercenter\cybercenter\obj\Debug\cybercenter.csproj.GenerateResource.Cache
+J:\project demo\cybercenter\cybercenter\obj\Debug\cybercenter.exe
+J:\project demo\cybercenter\cybercenter\obj\Debug\cybercenter.pdb
+J:\project demo\cybercenter\cybercenter\bin\Debug\cybercenter.exe
+J:\project demo\cybercenter\cybercenter\bin\Debug\cybercenter.pdb
+J:\project demo\cybercenter\cybercenter\obj\Debug\ResolveAssemblyReference.cache
+J:\project demo\cybercenter\cybercenter\obj\Debug\cybercenter.changepassword.resources
+J:\project demo\cybercenter\cybercenter\obj\Debug\cybercenter.customerinfo.resources
+J:\project demo\cybercenter\cybercenter\obj\Debug\cybercenter.frmLogin.resources
+J:\project demo\cybercenter\cybercenter\obj\Debug\cybercenter.mainform.resources
+J:\project demo\cybercenter\cybercenter\obj\Debug\cybercenter.newcomputer.resources
+J:\project demo\cybercenter\cybercenter\obj\Debug\cybercenter.Properties.Resources.resources
+J:\project demo\cybercenter\cybercenter\obj\Debug\cybercenter.csproj.GenerateResource.Cache
+I:\project demo\cybercenter\cybercenter\obj\Debug\cybercenter.exe
+I:\project demo\cybercenter\cybercenter\obj\Debug\cybercenter.pdb
+I:\project demo\cybercenter\cybercenter\bin\Debug\cybercenter.exe
+I:\project demo\cybercenter\cybercenter\bin\Debug\cybercenter.pdb
+I:\project demo\cybercenter\cybercenter\obj\Debug\ResolveAssemblyReference.cache
+I:\project demo\cybercenter\cybercenter\obj\Debug\cybercenter.changepassword.resources
+I:\project demo\cybercenter\cybercenter\obj\Debug\cybercenter.customerinfo.resources
+I:\project demo\cybercenter\cybercenter\obj\Debug\cybercenter.frmLogin.resources
+I:\project demo\cybercenter\cybercenter\obj\Debug\cybercenter.mainform.resources
+I:\project demo\cybercenter\cybercenter\obj\Debug\cybercenter.newcomputer.resources
+I:\project demo\cybercenter\cybercenter\obj\Debug\cybercenter.Properties.Resources.resources
+I:\project demo\cybercenter\cybercenter\obj\Debug\cybercenter.csproj.GenerateResource.Cache
+D:\Projects 2012\Students Work\Viraj 30jan2012\cybercenter\cybercenter\obj\Debug\cybercenter.exe
+D:\Projects 2012\Students Work\Viraj 30jan2012\cybercenter\cybercenter\obj\Debug\cybercenter.pdb
+D:\Projects 2012\Students Work\Viraj 30jan2012\cybercenter\cybercenter\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects 2012\Students Work\Viraj 30jan2012\cybercenter\cybercenter\obj\Debug\cybercenter.changepassword.resources
+D:\Projects 2012\Students Work\Viraj 30jan2012\cybercenter\cybercenter\obj\Debug\cybercenter.customerinfo.resources
+D:\Projects 2012\Students Work\Viraj 30jan2012\cybercenter\cybercenter\obj\Debug\cybercenter.frmLogin.resources
+D:\Projects 2012\Students Work\Viraj 30jan2012\cybercenter\cybercenter\obj\Debug\cybercenter.mainform.resources
+D:\Projects 2012\Students Work\Viraj 30jan2012\cybercenter\cybercenter\obj\Debug\cybercenter.newcomputer.resources
+D:\Projects 2012\Students Work\Viraj 30jan2012\cybercenter\cybercenter\obj\Debug\cybercenter.Properties.Resources.resources
+D:\Projects 2012\Students Work\Viraj 30jan2012\cybercenter\cybercenter\obj\Debug\cybercenter.csproj.GenerateResource.Cache
+D:\Projects 2012\Students Work\Viraj 30jan2012\cybercenter\cybercenter\bin\Debug\cybercenter.exe
+D:\Projects 2012\Students Work\Viraj 30jan2012\cybercenter\cybercenter\bin\Debug\cybercenter.pdb
+E:\vandana\college\Project\project05feb2012\cybercenter\cybercenter\obj\Debug\cybercenter.exe
+E:\vandana\college\Project\project05feb2012\cybercenter\cybercenter\obj\Debug\cybercenter.pdb
+E:\vandana\college\Project\project05feb2012\cybercenter\cybercenter\bin\Debug\cybercenter.exe
+E:\vandana\college\Project\project05feb2012\cybercenter\cybercenter\bin\Debug\cybercenter.pdb
+E:\vandana\college\Project\project05feb2012\cybercenter\cybercenter\obj\Debug\ResolveAssemblyReference.cache
+E:\vandana\college\Project\project05feb2012\cybercenter\cybercenter\obj\Debug\cybercenter.changepassword.resources
+E:\vandana\college\Project\project05feb2012\cybercenter\cybercenter\obj\Debug\cybercenter.customerinfo.resources
+E:\vandana\college\Project\project05feb2012\cybercenter\cybercenter\obj\Debug\cybercenter.frmLogin.resources
+E:\vandana\college\Project\project05feb2012\cybercenter\cybercenter\obj\Debug\cybercenter.mainform.resources
+E:\vandana\college\Project\project05feb2012\cybercenter\cybercenter\obj\Debug\cybercenter.newcomputer.resources
+E:\vandana\college\Project\project05feb2012\cybercenter\cybercenter\obj\Debug\cybercenter.Properties.Resources.resources
+E:\vandana\college\Project\project05feb2012\cybercenter\cybercenter\obj\Debug\cybercenter.csproj.GenerateResource.Cache
+I:\project05feb2012\cybercenter\cybercenter\obj\Debug\cybercenter.exe
+I:\project05feb2012\cybercenter\cybercenter\obj\Debug\cybercenter.pdb
+I:\project05feb2012\cybercenter\cybercenter\bin\Debug\cybercenter.exe
+I:\project05feb2012\cybercenter\cybercenter\bin\Debug\cybercenter.pdb
+I:\project05feb2012\cybercenter\cybercenter\obj\Debug\ResolveAssemblyReference.cache
+I:\project05feb2012\cybercenter\cybercenter\obj\Debug\cybercenter.changepassword.resources
+I:\project05feb2012\cybercenter\cybercenter\obj\Debug\cybercenter.customerinfo.resources
+I:\project05feb2012\cybercenter\cybercenter\obj\Debug\cybercenter.frmLogin.resources
+I:\project05feb2012\cybercenter\cybercenter\obj\Debug\cybercenter.mainform.resources
+I:\project05feb2012\cybercenter\cybercenter\obj\Debug\cybercenter.newcomputer.resources
+I:\project05feb2012\cybercenter\cybercenter\obj\Debug\cybercenter.Properties.Resources.resources
+I:\project05feb2012\cybercenter\cybercenter\obj\Debug\cybercenter.csproj.GenerateResource.Cache
+E:\vandana\college\Project\project07feb2012\cybercenter\cybercenter\obj\Debug\cybercenter.exe
+E:\vandana\college\Project\project07feb2012\cybercenter\cybercenter\obj\Debug\cybercenter.pdb
+I:\project07feb2012\cybercenter\cybercenter\obj\Debug\cybercenter.exe
+I:\project07feb2012\cybercenter\cybercenter\obj\Debug\cybercenter.pdb
+I:\project07feb2012\cybercenter\cybercenter\obj\Debug\ResolveAssemblyReference.cache
+I:\project07feb2012\cybercenter\cybercenter\obj\Debug\cybercenter.changepassword.resources
+I:\project07feb2012\cybercenter\cybercenter\obj\Debug\cybercenter.customerinfo.resources
+I:\project07feb2012\cybercenter\cybercenter\obj\Debug\cybercenter.frmLogin.resources
+I:\project07feb2012\cybercenter\cybercenter\obj\Debug\cybercenter.mainform.resources
+I:\project07feb2012\cybercenter\cybercenter\obj\Debug\cybercenter.newcomputer.resources
+I:\project07feb2012\cybercenter\cybercenter\obj\Debug\cybercenter.Properties.Resources.resources
+I:\project07feb2012\cybercenter\cybercenter\obj\Debug\cybercenter.Rates.resources
+I:\project07feb2012\cybercenter\cybercenter\obj\Debug\cybercenter.csproj.GenerateResource.Cache
+I:\project07feb2012\cybercenter\cybercenter\bin\Debug\cybercenter.exe
+I:\project07feb2012\cybercenter\cybercenter\bin\Debug\cybercenter.pdb
+J:\Vandana 2mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.exe
+J:\Vandana 2mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.pdb
+J:\Vandana 2mar2012\cybercenter\cybercenter\bin\Debug\cybercenter.exe
+J:\Vandana 2mar2012\cybercenter\cybercenter\bin\Debug\cybercenter.pdb
+J:\Vandana 2mar2012\cybercenter\cybercenter\obj\Debug\ResolveAssemblyReference.cache
+J:\Vandana 2mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.changepassword.resources
+J:\Vandana 2mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.customerinfo.resources
+J:\Vandana 2mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.frmLogin.resources
+J:\Vandana 2mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.mainform.resources
+J:\Vandana 2mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.newcomputer.resources
+J:\Vandana 2mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.Properties.Resources.resources
+J:\Vandana 2mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.Rates.resources
+J:\Vandana 2mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.csproj.GenerateResource.Cache
+J:\Vandana 2mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.blist.resources
+C:\Documents and Settings\sushant\Desktop\Vandana 2mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.exe
+C:\Documents and Settings\sushant\Desktop\Vandana 2mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.pdb
+C:\Documents and Settings\sushant\Desktop\Vandana 2mar2012\cybercenter\cybercenter\bin\Debug\cybercenter.exe
+C:\Documents and Settings\sushant\Desktop\Vandana 2mar2012\cybercenter\cybercenter\bin\Debug\cybercenter.pdb
+C:\Documents and Settings\sushant\Desktop\Vandana 2mar2012\cybercenter\cybercenter\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sushant\Desktop\Vandana 2mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.blist.resources
+C:\Documents and Settings\sushant\Desktop\Vandana 2mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.changepassword.resources
+C:\Documents and Settings\sushant\Desktop\Vandana 2mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.customerinfo.resources
+C:\Documents and Settings\sushant\Desktop\Vandana 2mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.frmLogin.resources
+C:\Documents and Settings\sushant\Desktop\Vandana 2mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.mainform.resources
+C:\Documents and Settings\sushant\Desktop\Vandana 2mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.newcomputer.resources
+C:\Documents and Settings\sushant\Desktop\Vandana 2mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.Properties.Resources.resources
+C:\Documents and Settings\sushant\Desktop\Vandana 2mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.Rates.resources
+C:\Documents and Settings\sushant\Desktop\Vandana 2mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.csproj.GenerateResource.Cache
+C:\Documents and Settings\sushant\My Documents\Downloads\Vandana 2mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.exe
+C:\Documents and Settings\sushant\My Documents\Downloads\Vandana 2mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.pdb
+C:\Documents and Settings\vicky\Desktop\Vandana 2mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.exe
+C:\Documents and Settings\vicky\Desktop\Vandana 2mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.pdb
+C:\Documents and Settings\vicky\Desktop\Vandana 2mar2012\cybercenter\cybercenter\bin\Debug\cybercenter.exe
+C:\Documents and Settings\vicky\Desktop\Vandana 2mar2012\cybercenter\cybercenter\bin\Debug\cybercenter.pdb
+C:\Documents and Settings\vicky\Desktop\Vandana 2mar2012\cybercenter\cybercenter\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\vicky\Desktop\Vandana 2mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.blist.resources
+C:\Documents and Settings\vicky\Desktop\Vandana 2mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.changepassword.resources
+C:\Documents and Settings\vicky\Desktop\Vandana 2mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.customerinfo.resources
+C:\Documents and Settings\vicky\Desktop\Vandana 2mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.DailyCollections.resources
+C:\Documents and Settings\vicky\Desktop\Vandana 2mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.frmLogin.resources
+C:\Documents and Settings\vicky\Desktop\Vandana 2mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.mainform.resources
+C:\Documents and Settings\vicky\Desktop\Vandana 2mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.newcomputer.resources
+C:\Documents and Settings\vicky\Desktop\Vandana 2mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.Properties.Resources.resources
+C:\Documents and Settings\vicky\Desktop\Vandana 2mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.Rates.resources
+C:\Documents and Settings\vicky\Desktop\Vandana 2mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.csproj.GenerateResource.Cache
+C:\Documents and Settings\vicky\Desktop\Vandana 2mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.progress.resources
+C:\Documents and Settings\vicky\Desktop\Vandana 4mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.exe
+C:\Documents and Settings\vicky\Desktop\Vandana 4mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.pdb
+C:\Documents and Settings\vicky\Desktop\Vandana 4mar2012\cybercenter\cybercenter\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\vicky\Desktop\Vandana 4mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.blist.resources
+C:\Documents and Settings\vicky\Desktop\Vandana 4mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.changepassword.resources
+C:\Documents and Settings\vicky\Desktop\Vandana 4mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.customerinfo.resources
+C:\Documents and Settings\vicky\Desktop\Vandana 4mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.DailyCollections.resources
+C:\Documents and Settings\vicky\Desktop\Vandana 4mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.frmLogin.resources
+C:\Documents and Settings\vicky\Desktop\Vandana 4mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.mainform.resources
+C:\Documents and Settings\vicky\Desktop\Vandana 4mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.newcomputer.resources
+C:\Documents and Settings\vicky\Desktop\Vandana 4mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.progress.resources
+C:\Documents and Settings\vicky\Desktop\Vandana 4mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.Properties.Resources.resources
+C:\Documents and Settings\vicky\Desktop\Vandana 4mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.Rates.resources
+C:\Documents and Settings\vicky\Desktop\Vandana 4mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.csproj.GenerateResource.Cache
+C:\Documents and Settings\vicky\Desktop\Vandana 4mar2012\cybercenter\cybercenter\bin\Debug\cybercenter.exe
+C:\Documents and Settings\vicky\Desktop\Vandana 4mar2012\cybercenter\cybercenter\bin\Debug\cybercenter.pdb
+C:\Users\SunSush\Desktop\Vandana 4mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.exe
+C:\Users\SunSush\Desktop\Vandana 4mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.pdb
+C:\Users\SunSush\Desktop\Vandana 4mar2012\cybercenter\cybercenter\bin\Debug\cybercenter.exe
+C:\Users\SunSush\Desktop\Vandana 4mar2012\cybercenter\cybercenter\bin\Debug\cybercenter.pdb
+C:\Users\SunSush\Desktop\Vandana 4mar2012\cybercenter\cybercenter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SunSush\Desktop\Vandana 4mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.blist.resources
+C:\Users\SunSush\Desktop\Vandana 4mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.changepassword.resources
+C:\Users\SunSush\Desktop\Vandana 4mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.customerinfo.resources
+C:\Users\SunSush\Desktop\Vandana 4mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.DailyCollections.resources
+C:\Users\SunSush\Desktop\Vandana 4mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.frmLogin.resources
+C:\Users\SunSush\Desktop\Vandana 4mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.mainform.resources
+C:\Users\SunSush\Desktop\Vandana 4mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.newcomputer.resources
+C:\Users\SunSush\Desktop\Vandana 4mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.progress.resources
+C:\Users\SunSush\Desktop\Vandana 4mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.Properties.Resources.resources
+C:\Users\SunSush\Desktop\Vandana 4mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.Rates.resources
+C:\Users\SunSush\Desktop\Vandana 4mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.csproj.GenerateResource.Cache
+C:\Users\SunSush\Desktop\Vandana 4mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.MonthlyCollection.resources
+D:\Projects\Projects 2012\Vandana 4mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.exe
+D:\Projects\Projects 2012\Vandana 4mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.pdb
+D:\Projects\Projects 2012\Vandana 4mar2012\cybercenter\cybercenter\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Projects 2012\Vandana 4mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.blist.resources
+D:\Projects\Projects 2012\Vandana 4mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.changepassword.resources
+D:\Projects\Projects 2012\Vandana 4mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.customerinfo.resources
+D:\Projects\Projects 2012\Vandana 4mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.DailyCollections.resources
+D:\Projects\Projects 2012\Vandana 4mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.frmLogin.resources
+D:\Projects\Projects 2012\Vandana 4mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.mainform.resources
+D:\Projects\Projects 2012\Vandana 4mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.MonthlyCollection.resources
+D:\Projects\Projects 2012\Vandana 4mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.newcomputer.resources
+D:\Projects\Projects 2012\Vandana 4mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.progress.resources
+D:\Projects\Projects 2012\Vandana 4mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.Properties.Resources.resources
+D:\Projects\Projects 2012\Vandana 4mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.Rates.resources
+D:\Projects\Projects 2012\Vandana 4mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.csproj.GenerateResource.Cache
+D:\Projects\Projects 2012\Vandana 4mar2012\cybercenter\cybercenter\bin\Debug\cybercenter.exe
+D:\Projects\Projects 2012\Vandana 4mar2012\cybercenter\cybercenter\bin\Debug\cybercenter.pdb
+D:\Projects\Projects 2012\Vandana 4mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.CustomerReport.resources
+C:\Users\SunSush\Desktop\Vandana 4mar2012\cybercenter\cybercenter\obj\Debug\cybercenter.CustomerReport.resources
+C:\Users\SunSush\Desktop\Cyber Center Management\cybercenter\cybercenter\obj\Debug\cybercenter.exe
+C:\Users\SunSush\Desktop\Cyber Center Management\cybercenter\cybercenter\obj\Debug\cybercenter.pdb
+C:\Users\SunSush\Desktop\Cyber Center Management\cybercenter\cybercenter\bin\Debug\cybercenter.exe
+C:\Users\SunSush\Desktop\Cyber Center Management\cybercenter\cybercenter\bin\Debug\cybercenter.pdb
+C:\Users\SunSush\Desktop\Cyber Center Management\cybercenter\cybercenter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SunSush\Desktop\Cyber Center Management\cybercenter\cybercenter\obj\Debug\cybercenter.blist.resources
+C:\Users\SunSush\Desktop\Cyber Center Management\cybercenter\cybercenter\obj\Debug\cybercenter.changepassword.resources
+C:\Users\SunSush\Desktop\Cyber Center Management\cybercenter\cybercenter\obj\Debug\cybercenter.customerinfo.resources
+C:\Users\SunSush\Desktop\Cyber Center Management\cybercenter\cybercenter\obj\Debug\cybercenter.CustomerReport.resources
+C:\Users\SunSush\Desktop\Cyber Center Management\cybercenter\cybercenter\obj\Debug\cybercenter.DailyCollections.resources
+C:\Users\SunSush\Desktop\Cyber Center Management\cybercenter\cybercenter\obj\Debug\cybercenter.frmLogin.resources
+C:\Users\SunSush\Desktop\Cyber Center Management\cybercenter\cybercenter\obj\Debug\cybercenter.mainform.resources
+C:\Users\SunSush\Desktop\Cyber Center Management\cybercenter\cybercenter\obj\Debug\cybercenter.MonthlyCollection.resources
+C:\Users\SunSush\Desktop\Cyber Center Management\cybercenter\cybercenter\obj\Debug\cybercenter.newcomputer.resources
+C:\Users\SunSush\Desktop\Cyber Center Management\cybercenter\cybercenter\obj\Debug\cybercenter.progress.resources
+C:\Users\SunSush\Desktop\Cyber Center Management\cybercenter\cybercenter\obj\Debug\cybercenter.Properties.Resources.resources
+C:\Users\SunSush\Desktop\Cyber Center Management\cybercenter\cybercenter\obj\Debug\cybercenter.Rates.resources
+C:\Users\SunSush\Desktop\Cyber Center Management\cybercenter\cybercenter\obj\Debug\cybercenter.csproj.GenerateResource.Cache
+C:\Users\SunSush\Desktop\Cyber Center Management\cybercenter\cybercenter\obj\Debug\cybercenter.GetPassword.resources
+D:\Projects\Projects 2012\Cyber Center Management\cybercenter\cybercenter\obj\Debug\cybercenter.exe
+D:\Projects\Projects 2012\Cyber Center Management\cybercenter\cybercenter\obj\Debug\cybercenter.pdb
+D:\Projects\Projects 2012\Cyber Center Management\cybercenter\cybercenter\bin\Debug\cybercenter.exe
+D:\Projects\Projects 2012\Cyber Center Management\cybercenter\cybercenter\bin\Debug\cybercenter.pdb
+D:\Projects\Projects 2012\Cyber Center Management\cybercenter\cybercenter\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Projects 2012\Cyber Center Management\cybercenter\cybercenter\obj\Debug\cybercenter.blist.resources
+D:\Projects\Projects 2012\Cyber Center Management\cybercenter\cybercenter\obj\Debug\cybercenter.changepassword.resources
+D:\Projects\Projects 2012\Cyber Center Management\cybercenter\cybercenter\obj\Debug\cybercenter.customerinfo.resources
+D:\Projects\Projects 2012\Cyber Center Management\cybercenter\cybercenter\obj\Debug\cybercenter.CustomerReport.resources
+D:\Projects\Projects 2012\Cyber Center Management\cybercenter\cybercenter\obj\Debug\cybercenter.DailyCollections.resources
+D:\Projects\Projects 2012\Cyber Center Management\cybercenter\cybercenter\obj\Debug\cybercenter.frmLogin.resources
+D:\Projects\Projects 2012\Cyber Center Management\cybercenter\cybercenter\obj\Debug\cybercenter.GetPassword.resources
+D:\Projects\Projects 2012\Cyber Center Management\cybercenter\cybercenter\obj\Debug\cybercenter.mainform.resources
+D:\Projects\Projects 2012\Cyber Center Management\cybercenter\cybercenter\obj\Debug\cybercenter.MonthlyCollection.resources
+D:\Projects\Projects 2012\Cyber Center Management\cybercenter\cybercenter\obj\Debug\cybercenter.newcomputer.resources
+D:\Projects\Projects 2012\Cyber Center Management\cybercenter\cybercenter\obj\Debug\cybercenter.progress.resources
+D:\Projects\Projects 2012\Cyber Center Management\cybercenter\cybercenter\obj\Debug\cybercenter.Properties.Resources.resources
+D:\Projects\Projects 2012\Cyber Center Management\cybercenter\cybercenter\obj\Debug\cybercenter.Rates.resources
+D:\Projects\Projects 2012\Cyber Center Management\cybercenter\cybercenter\obj\Debug\cybercenter.WebsiteHistory.resources
+D:\Projects\Projects 2012\Cyber Center Management\cybercenter\cybercenter\obj\Debug\cybercenter.csproj.GenerateResource.Cache
+D:\Projects\Projects 2012\Cyber Center Management\cybercenter\cybercenter\obj\Debug\cybercenter.CustomerHistory.resources
+J:\Cyber Center Management\cybercenter\cybercenter\obj\Debug\cybercenter.exe
+J:\Cyber Center Management\cybercenter\cybercenter\obj\Debug\cybercenter.pdb
+C:\Documents and Settings\User\Desktop\Cyber Center Management\cybercenter\cybercenter\obj\Debug\cybercenter.exe
+C:\Documents and Settings\User\Desktop\Cyber Center Management\cybercenter\cybercenter\obj\Debug\cybercenter.pdb
+C:\Documents and Settings\User\Desktop\Cyber Center Management\cybercenter\cybercenter\bin\Debug\cybercenter.exe
+C:\Documents and Settings\User\Desktop\Cyber Center Management\cybercenter\cybercenter\bin\Debug\cybercenter.pdb
+C:\Documents and Settings\User\Desktop\Cyber Center Management\cybercenter\cybercenter\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\User\Desktop\Cyber Center Management\cybercenter\cybercenter\obj\Debug\cybercenter.blist.resources
+C:\Documents and Settings\User\Desktop\Cyber Center Management\cybercenter\cybercenter\obj\Debug\cybercenter.changepassword.resources
+C:\Documents and Settings\User\Desktop\Cyber Center Management\cybercenter\cybercenter\obj\Debug\cybercenter.CustomerHistory.resources
+C:\Documents and Settings\User\Desktop\Cyber Center Management\cybercenter\cybercenter\obj\Debug\cybercenter.customerinfo.resources
+C:\Documents and Settings\User\Desktop\Cyber Center Management\cybercenter\cybercenter\obj\Debug\cybercenter.CustomerReport.resources
+C:\Documents and Settings\User\Desktop\Cyber Center Management\cybercenter\cybercenter\obj\Debug\cybercenter.DailyCollections.resources
+C:\Documents and Settings\User\Desktop\Cyber Center Management\cybercenter\cybercenter\obj\Debug\cybercenter.frmLogin.resources
+C:\Documents and Settings\User\Desktop\Cyber Center Management\cybercenter\cybercenter\obj\Debug\cybercenter.GetPassword.resources
+C:\Documents and Settings\User\Desktop\Cyber Center Management\cybercenter\cybercenter\obj\Debug\cybercenter.mainform.resources
+C:\Documents and Settings\User\Desktop\Cyber Center Management\cybercenter\cybercenter\obj\Debug\cybercenter.MonthlyCollection.resources
+C:\Documents and Settings\User\Desktop\Cyber Center Management\cybercenter\cybercenter\obj\Debug\cybercenter.newcomputer.resources
+C:\Documents and Settings\User\Desktop\Cyber Center Management\cybercenter\cybercenter\obj\Debug\cybercenter.progress.resources
+C:\Documents and Settings\User\Desktop\Cyber Center Management\cybercenter\cybercenter\obj\Debug\cybercenter.Properties.Resources.resources
+C:\Documents and Settings\User\Desktop\Cyber Center Management\cybercenter\cybercenter\obj\Debug\cybercenter.Rates.resources
+C:\Documents and Settings\User\Desktop\Cyber Center Management\cybercenter\cybercenter\obj\Debug\cybercenter.WebsiteHistory.resources
+C:\Documents and Settings\User\Desktop\Cyber Center Management\cybercenter\cybercenter\obj\Debug\cybercenter.csproj.GenerateResource.Cache
+F:\D Drive\Complete Projects\Project 2012\Cyber Center Management\cybercenter\cybercenter\obj\Debug\cybercenter.exe
+F:\D Drive\Complete Projects\Project 2012\Cyber Center Management\cybercenter\cybercenter\obj\Debug\cybercenter.pdb
+F:\D Drive\Complete Projects\Project 2012\Cyber Center Management\cybercenter\cybercenter\bin\Debug\cybercenter.exe
+F:\D Drive\Complete Projects\Project 2012\Cyber Center Management\cybercenter\cybercenter\bin\Debug\cybercenter.pdb
+F:\D Drive\Complete Projects\Project 2012\Cyber Center Management\cybercenter\cybercenter\obj\Debug\ResolveAssemblyReference.cache
+F:\D Drive\Complete Projects\Project 2012\Cyber Center Management\cybercenter\cybercenter\obj\Debug\cybercenter.blist.resources
+F:\D Drive\Complete Projects\Project 2012\Cyber Center Management\cybercenter\cybercenter\obj\Debug\cybercenter.changepassword.resources
+F:\D Drive\Complete Projects\Project 2012\Cyber Center Management\cybercenter\cybercenter\obj\Debug\cybercenter.CustomerHistory.resources
+F:\D Drive\Complete Projects\Project 2012\Cyber Center Management\cybercenter\cybercenter\obj\Debug\cybercenter.customerinfo.resources
+F:\D Drive\Complete Projects\Project 2012\Cyber Center Management\cybercenter\cybercenter\obj\Debug\cybercenter.CustomerReport.resources
+F:\D Drive\Complete Projects\Project 2012\Cyber Center Management\cybercenter\cybercenter\obj\Debug\cybercenter.DailyCollections.resources
+F:\D Drive\Complete Projects\Project 2012\Cyber Center Management\cybercenter\cybercenter\obj\Debug\cybercenter.frmLogin.resources
+F:\D Drive\Complete Projects\Project 2012\Cyber Center Management\cybercenter\cybercenter\obj\Debug\cybercenter.GetPassword.resources
+F:\D Drive\Complete Projects\Project 2012\Cyber Center Management\cybercenter\cybercenter\obj\Debug\cybercenter.mainform.resources
+F:\D Drive\Complete Projects\Project 2012\Cyber Center Management\cybercenter\cybercenter\obj\Debug\cybercenter.MonthlyCollection.resources
+F:\D Drive\Complete Projects\Project 2012\Cyber Center Management\cybercenter\cybercenter\obj\Debug\cybercenter.newcomputer.resources
+F:\D Drive\Complete Projects\Project 2012\Cyber Center Management\cybercenter\cybercenter\obj\Debug\cybercenter.Properties.Resources.resources
+F:\D Drive\Complete Projects\Project 2012\Cyber Center Management\cybercenter\cybercenter\obj\Debug\cybercenter.Rates.resources
+F:\D Drive\Complete Projects\Project 2012\Cyber Center Management\cybercenter\cybercenter\obj\Debug\cybercenter.WebsiteHistory.resources
+F:\D Drive\Complete Projects\Project 2012\Cyber Center Management\cybercenter\cybercenter\obj\Debug\cybercenter.csproj.GenerateResource.Cache
+E:\cyber center management\cybercenter\cybercenter\obj\Debug\cybercenter.exe
+E:\cyber center management\cybercenter\cybercenter\obj\Debug\cybercenter.pdb
+E:\cyber center management\cybercenter\cybercenter\bin\Debug\cybercenter.exe
+E:\cyber center management\cybercenter\cybercenter\bin\Debug\cybercenter.pdb
+E:\cyber center management\cybercenter\cybercenter\obj\Debug\ResolveAssemblyReference.cache
+E:\cyber center management\cybercenter\cybercenter\obj\Debug\cybercenter.blist.resources
+E:\cyber center management\cybercenter\cybercenter\obj\Debug\cybercenter.changepassword.resources
+E:\cyber center management\cybercenter\cybercenter\obj\Debug\cybercenter.CustomerHistory.resources
+E:\cyber center management\cybercenter\cybercenter\obj\Debug\cybercenter.customerinfo.resources
+E:\cyber center management\cybercenter\cybercenter\obj\Debug\cybercenter.CustomerReport.resources
+E:\cyber center management\cybercenter\cybercenter\obj\Debug\cybercenter.DailyCollections.resources
+E:\cyber center management\cybercenter\cybercenter\obj\Debug\cybercenter.frmLogin.resources
+E:\cyber center management\cybercenter\cybercenter\obj\Debug\cybercenter.GetPassword.resources
+E:\cyber center management\cybercenter\cybercenter\obj\Debug\cybercenter.mainform.resources
+E:\cyber center management\cybercenter\cybercenter\obj\Debug\cybercenter.MonthlyCollection.resources
+E:\cyber center management\cybercenter\cybercenter\obj\Debug\cybercenter.newcomputer.resources
+E:\cyber center management\cybercenter\cybercenter\obj\Debug\cybercenter.Properties.Resources.resources
+E:\cyber center management\cybercenter\cybercenter\obj\Debug\cybercenter.Rates.resources
+E:\cyber center management\cybercenter\cybercenter\obj\Debug\cybercenter.WebsiteHistory.resources
+E:\cyber center management\cybercenter\cybercenter\obj\Debug\cybercenter.csproj.GenerateResource.Cache
+F:\F Drive\SAHAJ_Related\gidd\projects\cyber center management\cybercenter\cybercenter\obj\Debug\cybercenter.exe
+F:\F Drive\SAHAJ_Related\gidd\projects\cyber center management\cybercenter\cybercenter\obj\Debug\cybercenter.pdb
+E:\vinayak\DBMS\book\project\projectss\cyber center management\cybercenter\cybercenter\obj\Debug\cybercenter.exe
+E:\vinayak\DBMS\book\project\projectss\cyber center management\cybercenter\cybercenter\obj\Debug\cybercenter.pdb
+E:\vinayak\DBMS\book\project\projectss\cyber center management\cybercenter\cybercenter\bin\Debug\cybercenter.exe
+E:\vinayak\DBMS\book\project\projectss\cyber center management\cybercenter\cybercenter\bin\Debug\cybercenter.pdb
+E:\vinayak\DBMS\book\project\projectss\cyber center management\cybercenter\cybercenter\obj\Debug\cybercenter.blist.resources
+E:\vinayak\DBMS\book\project\projectss\cyber center management\cybercenter\cybercenter\obj\Debug\cybercenter.changepassword.resources
+E:\vinayak\DBMS\book\project\projectss\cyber center management\cybercenter\cybercenter\obj\Debug\cybercenter.CustomerHistory.resources
+E:\vinayak\DBMS\book\project\projectss\cyber center management\cybercenter\cybercenter\obj\Debug\cybercenter.customerinfo.resources
+E:\vinayak\DBMS\book\project\projectss\cyber center management\cybercenter\cybercenter\obj\Debug\cybercenter.CustomerReport.resources
+E:\vinayak\DBMS\book\project\projectss\cyber center management\cybercenter\cybercenter\obj\Debug\cybercenter.DailyCollections.resources
+E:\vinayak\DBMS\book\project\projectss\cyber center management\cybercenter\cybercenter\obj\Debug\cybercenter.frmLogin.resources
+E:\vinayak\DBMS\book\project\projectss\cyber center management\cybercenter\cybercenter\obj\Debug\cybercenter.GetPassword.resources
+E:\vinayak\DBMS\book\project\projectss\cyber center management\cybercenter\cybercenter\obj\Debug\cybercenter.mainform.resources
+E:\vinayak\DBMS\book\project\projectss\cyber center management\cybercenter\cybercenter\obj\Debug\cybercenter.MonthlyCollection.resources
+E:\vinayak\DBMS\book\project\projectss\cyber center management\cybercenter\cybercenter\obj\Debug\cybercenter.newcomputer.resources
+E:\vinayak\DBMS\book\project\projectss\cyber center management\cybercenter\cybercenter\obj\Debug\cybercenter.Properties.Resources.resources
+E:\vinayak\DBMS\book\project\projectss\cyber center management\cybercenter\cybercenter\obj\Debug\cybercenter.Rates.resources
+E:\vinayak\DBMS\book\project\projectss\cyber center management\cybercenter\cybercenter\obj\Debug\cybercenter.WebsiteHistory.resources
+E:\vinayak\DBMS\book\project\projectss\cyber center management\cybercenter\cybercenter\obj\Debug\cybercenter.csproj.GenerateResource.Cache
